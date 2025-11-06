@@ -6,8 +6,7 @@ This project predicts whether a person is likely to have diabetes using health a
 - *diabetes.csv* – Dataset used for model training  
 - *diabetes_project.ipynb* – Colab notebook with full code  
 - *diabetes_model.pkl* – Saved trained model (using Logistic Regression)  
-- *requirements.txt* – Python libraries required to run this project  
-- *diabetes_project.pdf* – Report version of the notebook  
+- *requirements.txt* – Python libraries required to run this project
 
 ⚙️ Algorithm Used
 - Logistic Regression (Supervised Machine Learning)
@@ -20,3 +19,4 @@ This project predicts whether a person is likely to have diabetes using health a
 5. Model Training  
 6. Model Evaluation  
 7. Save Model (.pkl file)
+
